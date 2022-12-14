@@ -131,7 +131,7 @@
 <li>데이터에 대한 중요 결합을 안했기 때문에 면접만이 중요한 수치로 판단된다.</li>
 
 ## 2. 이상치값 판단
-<p align="center"><img src="images/img_8.png" style="margin-right: 30px"> <img src="images/img_9.png"></p>
+<p align="center"><img src="images/img_8.png" style="margin-right: 100px"> <img src="images/img_9.png"></p>
 <li>매년 집값은 변화기 때문에 평균 값을 측정하기는 어렵다.</li>
 
 ## 3. 월 단위 집 값
@@ -159,30 +159,30 @@
 <li>실제로는 자치구에 비례하는 ‘편의시설’, ‘교육’ 등 다수와 관련을 지어야 정확한 상관계수를 측정할 수 있다 
 
 ## 7. 서울 & 부산 자치구의 거래량
-<p align="center"><img src="images/img_14.png" style="margin-right: 30px"><img src="images/img_15.png"></p>
+<p align="center"><img src="images/img_14.png" style="margin-right: 100px"><img src="images/img_15.png"></p>
 <li>서울은 노원구 > 강동구 > 강남구 순으로 거래가 많이 이루어진다.</li>
 <li>부산은 해운대구 > 부산진구 > 북구 순으로 거래가 많이 이루어진다.</li>
 <li>결국 상위 3개를 분석해본 결과 해당 지역들은 집값이 싸거나, 교육 인프라가 상대적으로 많이 구비된 곳임을
 확인하였다.</li>
 
 ## 8. 서울 자치구의 거래날짜 시각화
-<p align="center"><img src="images/img_16.png"></p>
+<p align="center"><img src="images/img_16.png" width="600" height="600"></p>
 <li>서초구, 강남구, 용산구 순으로 높은 가격대를 유지하고 있다.</li>
 <li>2008년에는 가격이 다소 낮아졌지만 시간이 지날수록 모든 자치구의 거래 가격이 상승되고 있다.</li>
 
 ## 9. 부산 자치구의 거래 날짜 시각화
-<p align="center"><img src="images/img_17.png"></p>
+<p align="center"><img src="images/img_17.png" width="500" height="600"></p>
 <li>서울과 비슷하지만 상대적으로 다소 내려가는 추세이다.</li>
 <li>인구가 점점 빠지면서 비 수도권에서는 가격의 추이가 급등하는 그래프는 아닌 것을 할인할 수 있었다.</li>
 
 ## 10. 주소 상관 계수
 <p align="center"><img src="images/img_18.png"></p>
-<li>서울은 각 해당하는 주소의 편차가 매구 크기 때문에 유믜미한 상관계수를 찾기 힘들다.</li>
+<li>서울은 각 해당하는 주소의 편차가 매우 크기 때문에 유믜미한 상관계수를 찾기 힘들다.</li>
 <li>부산은 편차가 작고 이상치 값이 많이 없기 때문에 0.13 이라는 상관계수를 파악할 수 있었다.</li>
 
 
 ## 11. 서울, 부산 실거래가 시각화
-<p align="center"><img src="images/img_19.png" style="margin-right: 30px"><img src="images/img_20.png"></p>
+<p align="center"><img src="images/img_19.png" style="margin-right: 100px"><img src="images/img_20.png"></p>
 <li>서울은 각 해당하는 주소의 편차가 매우 크기 때문에 유의미한 상관계수를 찾기 힘들다.</li>
 <li>부산은 편차가 작고 이상치 값이 많이 없기 때문에 0.13이라는 상관계수를 파악할 수 있었다.</li>
 
@@ -202,11 +202,11 @@
 <li>공원의 면접은 중요하지 않는 것을 확인할 수 있다.</li>
 
 ## 15. 서울 소득 분위 (공공데이터 포털)
-<p align="center"><img src="images/img_23.png"></p>
+<p align="center"><img src="images/img_23.png" height="400" width="400"></p>
 <li>현재 데이터만으로는 정확한 분석이 불가능하기에, 해당 자치구의 소득 분위 데이터를 사용해 접목시킨다.</li>
 
 ## 16. 부산 소득 분위 (공공데이터 포털)
-<p align="center"><img src="images/img_24.png"></p>
+<p align="center"><img src="images/img_24.png" width="400" height="400"></p>
 <li>현재 데이터만으로는 정확한 분석이 불가능하기에, 해당 자치구의 소득 분위 데이터를 사용해 접목시킨다.</li>
 <li>소득 분위가 높은 자치구(행정구) 일수록 아파트의 가격은 점점 올라간다</li>
 
@@ -214,7 +214,7 @@
 <p align="center"><img src="images/img_25.png"></p>
 <li>서울은 지역내에서 소득분위에 따라 아파트 가격에 영향을 많이 주는 것을 확인할 수 있다.</li>
 <li>부산은 지역마다 가격 분포가 일정하기 때문에 상관 계수는 거의 의미가 없는 것을 확인할 수 있다.</li>
-<
+
 
 ## 18. 설립 연도에 따른 집값 추이
 <p align="center"><img src="images/img_26.png"></p>
