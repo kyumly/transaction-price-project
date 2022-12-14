@@ -267,10 +267,10 @@
 <li>빠르게 튜닝이 가능하다는 장점을 가지고 있음.</li>
 
 ## 2. 모델 결과
-<p align="center"><img src="images/img_34.png" height="150"></p>
+<p align="center"><img src="images/model1.png" height="150"></p>
 <li>서울 모델 결과 : Best Score : 0.1107.</li>
 
-<p align="center"><img src="images/img_35.png" height="150"></p>
+<p align="center"><img src="images/model2.png.png" height="150"></p>
 <li>부산 모델 결과 : Best Score : 0.1336</li>
 
 ## 3-1. 서울 훈련한 데이터 결과 시각화
